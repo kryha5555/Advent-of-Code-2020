@@ -1,3 +1,4 @@
+%% Import data
 clear
 clc
 
@@ -5,6 +6,7 @@ fid = fopen('input.txt');
 inputArray= textscan(fid,'%f%*c%f%c%*c%s');
 fclose(fid);
 
+%% Calculate result for part 2
 tic
 valid=0;
 
