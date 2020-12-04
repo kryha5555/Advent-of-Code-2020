@@ -5,7 +5,7 @@ clc
 inputArray ={};
 
 fid = fopen('input.txt');
-inputArray{end+1} = textscan(fgetl(fid),'%s%s%s%s%s%s%s');
+inputArray{end+1} = textscan(fgetl(fid),'%s%s%s%s%s%s%s%s');
 
 while ~feof(fid)
     tline = fgetl(fid);
