@@ -1,37 +1,39 @@
+%% Import data
 clear
 clc
 
-A ={};
+inputArray ={};
+
 fid = fopen('input.txt');
-req = ["byr";"iyr";"eyr";"hgt";"hcl";"ecl";"pid"];
-tline = fgetl(fid);
-A{end+1} = tline;
+inputArray{end+1} = fgetl(fid);
 
 while ~feof(fid)
-    tline = fgetl(fid);
-    A{end+1} = tline;
+    inputArray{end+1} = fgetl(fid);
 end
+
+inputArray{end+1} = char([]);
+
 fclose(fid);
-A{end+1} = char([]);
 
-A = A';
-ctr=0;
-count = 0;
+%% Calculate result for part 1
+tic
+fields = ["byr";"iyr";"eyr";"hgt";"hcl";"ecl";"pid"];
+fieldCount=0;
+validPassports = 0;
 
-for i = 1:size(A)
-    if A{i} == ""
-        if ctr == 7
-            count = count + 1;
+for i = 1:length(inputArray)
+    if isempty(inputArray{i}) % end of i-th passport
+        if fieldCount == 7
+            validPassports = validPassports + 1;
         end
-        ctr = 0;
+        fieldCount = 0;
         
     else
-        for j = 1:size(req)
-            ctr = ctr + contains(A{i},req(j));
+        for j = 1:size(fields)
+            fieldCount = fieldCount + contains(inputArray{i},fields(j));
         end
     end
     
 end
-count
-
-
+validPassports
+toc

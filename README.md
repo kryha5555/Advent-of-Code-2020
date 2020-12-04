@@ -5,7 +5,7 @@
 | ✔️ [Day 1: Report Repair](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2001 "Day 1: Report Repair")             |    ⭐️     |    ⭐️     |
 | ✔️ [Day 2: Password Philosophy](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2002 "Day 2: Password Philosophy") |    ⭐️     |    ⭐️     |
 | ✔️ [Day 3: Toboggan Trajectory](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2003 "Day 3: Toboggan Trajectory") |    ⭐️     |    ⭐️     |
-| Day 4: ...                                                                                                                        | 🕕 Waiting | 🕕 Waiting |
+| ✔️ [Day 4: Passport Processing](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2004 "Day 4: Passport Processing") |    ⭐️     |    ⭐️     |
 | Day 5: ...                                                                                                                        | 🕕 Waiting | 🕕 Waiting |
 | Day 6: ...                                                                                                                        | 🕕 Waiting | 🕕 Waiting |
 | Day 7: ...                                                                                                                        | 🕕 Waiting | 🕕 Waiting |
