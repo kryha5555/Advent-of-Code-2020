@@ -6,7 +6,7 @@
 | ✔️ [Day 2: Password Philosophy](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2002 "Day 2: Password Philosophy") |    ⭐️     |    ⭐️     |
 | ✔️ [Day 3: Toboggan Trajectory](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2003 "Day 3: Toboggan Trajectory") |    ⭐️     |    ⭐️     |
 | ✔️ [Day 4: Passport Processing](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2004 "Day 4: Passport Processing") |    ⭐️     |    ⭐️     |
-| Day 5: ...                                                                                                                        | 🕕 Waiting | 🕕 Waiting |
+| ✔️ [Day 5: Binary Boarding](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2005 "Day 5: Binary Boarding")         |    ⭐️     |    ⭐️     |
 | Day 6: ...                                                                                                                        | 🕕 Waiting | 🕕 Waiting |
 | Day 7: ...                                                                                                                        | 🕕 Waiting | 🕕 Waiting |
 | Day 8: ...                                                                                                                        | 🕕 Waiting | 🕕 Waiting |
