@@ -3,17 +3,17 @@ clear
 clc
 
 inputArray = importdata('input.txt');
-A = arrayfun(@(x) split(x),inputArray,'UniformOutput',false);
+rules = arrayfun(@(x) split(x),inputArray,'UniformOutput',false);
 
 %% Calculate result for part 1
 tic
 G = digraph();
 
-for i=1:length(A)
-    for j = 5:length(A{i})
-        if length( A{i}{j}) == 1
-            G = addedge(G, string(A{i}{j+1}) + " " + string(A{i}{j+2}), ...
-                string(A{i}{1}) + " " + string(A{i}{2}));
+for i=1:length(rules)
+    for j = 5:length(rules{i})
+        if length( rules{i}{j}) == 1
+            G = addedge(G, string(rules{i}{j+1}) + " " + string(rules{i}{j+2}), ...
+                string(rules{i}{1}) + " " + string(rules{i}{2}));
         end
     end
 end

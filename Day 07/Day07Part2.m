@@ -3,18 +3,18 @@ clear
 clc
 
 inputArray = importdata('input.txt');
-A = arrayfun(@(x) split(x),inputArray,'UniformOutput',false);
+rules = arrayfun(@(x) split(x),inputArray,'UniformOutput',false);
 
-%% Calculate result for part 1
+%% Calculate result for part 2
 tic
 G = digraph();
 
-for i=1:length(A)
-    for j = 5:length(A{i})
-        if length( A{i}{j}) == 1
-            G = addedge(G, string(A{i}{1}) + " " + string(A{i}{2}), ...
-                string(A{i}{j+1}) + " " + string(A{i}{j+2}), ...
-                double(A{i}{j} - '0')); % weight
+for i=1:length(rules)
+    for j = 5:length(rules{i})
+        if length( rules{i}{j}) == 1
+            G = addedge(G, string(rules{i}{1}) + " " + string(rules{i}{2}), ...
+                string(rules{i}{j+1}) + " " + string(rules{i}{j+2}), ...
+                double(rules{i}{j} - '0')); % weight
         end
     end
 end
@@ -22,13 +22,13 @@ part2 = findCost(G,"shiny gold")
 toc
 
 %% Helper function
-function c = findCost(G,node)
+function cost = findCost(G,node)
     s = successors(G,node);
     w = G.Edges.Weight(findedge(G,node,s));
-    c=0;
+    cost=0;
     if ~isempty(s)
         for i = 1:length(s)
-            c = c + w(i)*(1+findCost(G,s(i)));
+            cost = cost + w(i)*(1+findCost(G,s(i)));
         end
     end
 end
