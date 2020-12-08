@@ -9,7 +9,7 @@
 | ✔️ [Day 5: Binary Boarding](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2005 "Day 5: Binary Boarding")         |    ⭐️     |    ⭐️     |
 | ✔️ [Day 6: Custom Customs](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2006 "Day 6: Custom Customs")           |    ⭐️     |    ⭐️     |
 | ✔️ [Day 7: Handy Haversacks](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2007 "Day 7: Handy Haversacks")       |    ⭐️     |    ⭐️     |
-| Day 8: ...                                                                                                                        | 🕕 Waiting | 🕕 Waiting |
+| ✔️ [Day 8: Handheld Halting](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2008 "Day 8: Handheld Halting")       |    ⭐️     |    ⭐️     |
 | Day 9: ...                                                                                                                        | 🕕 Waiting | 🕕 Waiting |
 | Day 10: ...                                                                                                                       | 🕕 Waiting | 🕕 Waiting |
 | Day 11: ...                                                                                                                       | 🕕 Waiting | 🕕 Waiting |
