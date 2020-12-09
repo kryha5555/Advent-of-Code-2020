@@ -33,10 +33,10 @@ for head = 1:length(inputArray)
 end
 
 %% Helper function - more elegant solution
-function valid = checkIfValid(P, n)
+function valid = checkIfValid(A, n)
     valid = false;
-    for i = 1:length(P)
-        if any(P(P~=P(i)) == n-P(i))
+    for i = 1:length(A)
+        if any(A(A~=A(i)) == n-A(i))
             valid = true;
             return
         end
