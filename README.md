@@ -12,7 +12,7 @@
 | ✔️ [Day 8: Handheld Halting](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2008 "Day 8: Handheld Halting")       |    ⭐️     |    ⭐️     |
 | ✔️ [Day 9: Encoding Error](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2009 "Day 9: Encoding Error")           |    ⭐️     |    ⭐️     |
 | ✔️ [Day 10: Encoding Error](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2010 "Day 10: Adapter Array")          |    ⭐️     |    ⭐️     |
-| Day 11: ...                                                                                                                       | 🕕 Waiting | 🕕 Waiting |
+| ✔️ [Day 11: Seating System](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2011 "Day 11: Seating System")         |    ⭐️     |    ⭐️     |
 | Day 12: ...                                                                                                                       | 🕕 Waiting | 🕕 Waiting |
 | Day 13: ...                                                                                                                       | 🕕 Waiting | 🕕 Waiting |
 | Day 14: ...                                                                                                                       | 🕕 Waiting | 🕕 Waiting |
