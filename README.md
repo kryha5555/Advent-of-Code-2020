@@ -15,7 +15,7 @@
 | ✔️ [Day 11: Seating System](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2011 "Day 11: Seating System")         |    ⭐️     |    ⭐️     |
 | ✔️ [Day 12: Rain Risk](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2012 "Day 12: Rain Risk")                   |    ⭐️     |    ⭐️     |
 | ✔️ [Day 13: Shuttle Search](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2013 "Day 13: Shuttle Search")         |    ⭐️     |    ⭐️     |
-| Day 14: ...                                                                                                                       | 🕕 Waiting | 🕕 Waiting |
+| ✔️ [Day 14: Docking Data](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2014 "Day 14: Docking Data")             |    ⭐️     |    ⭐️     |
 | Day 15: ...                                                                                                                       | 🕕 Waiting | 🕕 Waiting |
 | Day 16: ...                                                                                                                       | 🕕 Waiting | 🕕 Waiting |
 | Day 17: ...                                                                                                                       | 🕕 Waiting | 🕕 Waiting |
