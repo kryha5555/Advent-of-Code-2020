@@ -17,7 +17,7 @@
 | ✔️ [Day 13: Shuttle Search](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2013 "Day 13: Shuttle Search")                   |    ⭐️     |    ⭐️     |
 | ✔️ [Day 14: Docking Data](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2014 "Day 14: Docking Data")                       |    ⭐️     |    ⭐️     |
 | ✔️ [Day 15: Rambunctious Recitation](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2015 "Day 15: Rambunctious Recitation") |    ⭐️     |    ⭐️     |
-| Day 16: ...                                                                                                                                 | 🕕 Waiting | 🕕 Waiting |
+| ✔️ [Day 16: Ticket Translation](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2016 "Day 16: Ticket Translation")           |    ⭐️     |    ⭐️     |
 | Day 17: ...                                                                                                                                 | 🕕 Waiting | 🕕 Waiting |
 | Day 18: ...                                                                                                                                 | 🕕 Waiting | 🕕 Waiting |
 | Day 19: ...                                                                                                                                 | 🕕 Waiting | 🕕 Waiting |
