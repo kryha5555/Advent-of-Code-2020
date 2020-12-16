@@ -77,6 +77,12 @@ for i = 1:length(isFieldAvailable)
     fieldAssignments(field) = column; % assign column to field
 end
 
+%% Can also use Dulmage-Mendelsohn decomposition to assign column to fields 
+%  D-M decomposition finds maximum-size matching of bipartate graph G
+%  constructed from matrix M, where M(i,j) == 1 connects R_i-th and L_j-th node
+
+% fieldAssignments = dmperm(isFieldAvailable);
+
 %% Calculate result for part 2
 part2 = 1;
 
