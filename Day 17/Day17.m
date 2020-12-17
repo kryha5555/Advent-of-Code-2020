@@ -11,12 +11,12 @@ cycles = 6;
 
 %% Calculate result for part 1
 dim = 3;
-conwayCubes(grid,dim,cycles)
+part1 = conwayCubes(grid,dim,cycles)
 toc
 
 %% Calculate result for part 2
 dim = 4;
-conwayCubes(grid,dim,cycles)
+part2 = conwayCubes(grid,dim,cycles)
 toc
 
 %% Helper function
