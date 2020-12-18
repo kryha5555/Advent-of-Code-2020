@@ -19,7 +19,7 @@
 | ✔️ [Day 15: Rambunctious Recitation](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2015 "Day 15: Rambunctious Recitation") |    ⭐️     |    ⭐️     |
 | ✔️ [Day 16: Ticket Translation](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2016 "Day 16: Ticket Translation")           |    ⭐️     |    ⭐️     |
 | ✔️ [Day 17: Conway Cubes](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2017 "Day 17: Conway Cubes")                       |    ⭐️     |    ⭐️     |
-| Day 18: ...                                                                                                                                 | 🕕 Waiting | 🕕 Waiting |
+| ✔️ [Day 18: Operation Order](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2018 "Day 18: Operation Order")                 |    ⭐️     |    ⭐️     |
 | Day 19: ...                                                                                                                                 | 🕕 Waiting | 🕕 Waiting |
 | Day 20: ...                                                                                                                                 | 🕕 Waiting | 🕕 Waiting |
 | Day 21: ...                                                                                                                                 | 🕕 Waiting | 🕕 Waiting |
