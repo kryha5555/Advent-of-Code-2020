@@ -20,7 +20,7 @@
 | ✔️ [Day 16: Ticket Translation](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2016 "Day 16: Ticket Translation")           |    ⭐️     |    ⭐️     |
 | ✔️ [Day 17: Conway Cubes](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2017 "Day 17: Conway Cubes")                       |    ⭐️     |    ⭐️     |
 | ✔️ [Day 18: Operation Order](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2018 "Day 18: Operation Order")                 |    ⭐️     |    ⭐️     |
-| Day 19: ...                                                                                                                                 | 🕕 Waiting | 🕕 Waiting |
+| ✔️ [Day 19: Monster Messages](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2019 "Day 19: Monster Messages")               |    ⭐️     |    ⭐️     |
 | Day 20: ...                                                                                                                                 | 🕕 Waiting | 🕕 Waiting |
 | Day 21: ...                                                                                                                                 | 🕕 Waiting | 🕕 Waiting |
 | Day 22: ...                                                                                                                                 | 🕕 Waiting | 🕕 Waiting |
