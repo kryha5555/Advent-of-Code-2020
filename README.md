@@ -24,6 +24,6 @@
 | ✔️ [Day 20: Jurassic Jigsaw](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2020 "Day 20: Jurassic Jigsaw")                 |    ⭐️     | 🕘 In progress |
 | ✔️ [Day 21: Allergen Assessment](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2021 "Day 21: Allergen Assessment")         |    ⭐️     |      ⭐️       |
 | ✔️ [Day 22: Crab Combat](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2022 "Day 22: Crab Combat")                         |    ⭐️     |      ⭐️       |
-| ✔️ [Day 23: Crab Cups](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2023 "Day 23: Crab Cups")                             |    ⭐️     | 🕘 In progress |
-| Day 24: ...                                                                                                                                 | 🕕 Waiting |   🕕 Waiting   |
+| ✔️ [Day 23: Crab Cups](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2023 "Day 23: Crab Cups")                             |    ⭐️     |      ⭐️       |
+| ✔️ [Day 24: Lobby Layout](https://github.com/kryha5555/Advent-of-Code-2020/tree/main/Day%2024 "Day 24: Lobby Layout")                       |    ⭐️     |      ⭐️       |
 | Day 25: ...                                                                                                                                 | 🕕 Waiting |   🕕 Waiting   |
